@@ -10,6 +10,8 @@ Runnable .jar file of current version of code is in main branch. Feel free to us
 
 If you notice any bugs, let me know.
 
+For user interface preview, check: https://github.com/StanislavBrandejs/Decimal2Midi/wiki 
+
 
 Enjoy, looking forward for feedback. 
 
