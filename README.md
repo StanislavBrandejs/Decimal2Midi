@@ -17,4 +17,4 @@ Enjoy, looking forward for feedback.
 
 
 ----------------------------------------
-(Bc. Stanislav "Wizard" Brandejs @ 2017)
+(Bc. Stanislav Brandejs @ 2017)
